@@ -30,7 +30,7 @@ on:
       COMMON_PATH:
         description: 'COMMON_PATH (if no common tree, leave blank)'
         required: false
-        default: 'device/xiaomi/sm82350-common'
+        default: 'device/xiaomi/sm8350-common'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
