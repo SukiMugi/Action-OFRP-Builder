@@ -25,7 +25,7 @@ on:
         default: 'https://github.com/Inkypen79/twrp_device_xiaomi_sm8350-common'
       COMMON_TREE_BRANCH:
         description: 'COMMON_TREE_BRANCH'
-        required: true
+        required: false
         default: 'android-12.1'
       COMMON_PATH:
         description: 'COMMON_PATH (if no common tree, leave blank)'
